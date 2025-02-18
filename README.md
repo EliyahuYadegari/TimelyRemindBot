@@ -22,7 +22,7 @@ Each user gets a unique database to store their tasks.
 
 1. Clone the repository:
    ```bash
-   git clone [TimelyRemindBot.git](https://github.com/EliyahuYadegari/TimelyRemindBot.git)
+   git clone https://github.com/EliyahuYadegari/TimelyRemindBot.git
    ```
 
 2. Navigate to the project folder:
